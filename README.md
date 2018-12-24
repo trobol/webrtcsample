@@ -13,4 +13,5 @@ THE SERVER WILL CRASH IF YOU CONENCT THE CLIENT BEFORE THE HOST.
 I recommend using this with nodemon if you are planning on changing/testing the code.
 
 npm i nodemon --save-dev
+
 nodemon server.js
