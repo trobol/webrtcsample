@@ -1,5 +1,10 @@
 # webrtcsample
+requires nodejs
 ```
+git clone https://github.com/trobol/webrtcsample
+
+cd webrtcsample
+
 npm install
 
 npm run start
